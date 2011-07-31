@@ -1,0 +1,8 @@
+h1. One word story game
+
+Game where the github community creates a story one word at a time.
+
+h2. Instructions
+
+Fork the repository, add your word to story.txt, make a pull request and wait for the word to be added to the total story.
+Each user can add one word in a row. After another user have added a word you can add another.
